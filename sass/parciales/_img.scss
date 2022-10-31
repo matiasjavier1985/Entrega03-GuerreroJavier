@@ -1,0 +1,9 @@
+
+@each $img-audi in __ruedas,__deportes,__familia,__confort,__comunicacion,__transporte {
+    .img#{$img-audi}{
+        width: 100%;
+        background-image: url(/assets/img/img#{$img-audi});
+        background-size: cover;
+        height:20vh;
+    }   
+}
