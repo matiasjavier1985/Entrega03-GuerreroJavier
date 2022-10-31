@@ -54,7 +54,7 @@
   width: 100%;
   background-image: url(/assets/img/img__ruedas.jpg);
   background-size: cover;
-  height: 20vh;
+  height: 25vh;
   -webkit-animation: shadow-inset-center 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
   animation: shadow-inset-center 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both; }
 
@@ -62,7 +62,7 @@
   width: 100%;
   background-image: url(/assets/img/img__deportes.jpg);
   background-size: cover;
-  height: 20vh;
+  height: 25vh;
   -webkit-animation: shadow-inset-center 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
   animation: shadow-inset-center 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both; }
 
@@ -70,7 +70,7 @@
   width: 100%;
   background-image: url(/assets/img/img__familia.jpg);
   background-size: cover;
-  height: 20vh;
+  height: 25vh;
   -webkit-animation: shadow-inset-center 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
   animation: shadow-inset-center 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both; }
 
@@ -78,7 +78,7 @@
   width: 100%;
   background-image: url(/assets/img/img__confort.jpg);
   background-size: cover;
-  height: 20vh;
+  height: 25vh;
   -webkit-animation: shadow-inset-center 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
   animation: shadow-inset-center 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both; }
 
@@ -86,7 +86,7 @@
   width: 100%;
   background-image: url(/assets/img/img__comunicacion.jpg);
   background-size: cover;
-  height: 20vh;
+  height: 25vh;
   -webkit-animation: shadow-inset-center 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
   animation: shadow-inset-center 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both; }
 
@@ -94,7 +94,7 @@
   width: 100%;
   background-image: url(/assets/img/img__transporte.jpg);
   background-size: cover;
-  height: 20vh;
+  height: 25vh;
   -webkit-animation: shadow-inset-center 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
   animation: shadow-inset-center 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both; }
 
